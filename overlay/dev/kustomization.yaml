@@ -7,4 +7,4 @@ resources:
 
 images:
 - name: simtal/dockerstudyimagename
-  newTag: latest
+  newTag: cdb719e42e8a5b5d400a2f98604ef39e5ccc63ee
